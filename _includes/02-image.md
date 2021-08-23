@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of GitHub](https://th.bing.com/th/id/R.4a4a0a764535bf4d89ef27059766f6b7?rik=a%2bX0aVhcqLPJ6g&riu=http%3a%2f%2fstatic.movingpackets.net%2f2013%2f12%2fgithub-logo-transparent.jpg&ehk=wa3Hn3sxFsbIDJ2KwS9ajV9jP0bRmyp8K2WjuoH%2b%2bAQ%3d&risl=&pid=ImgRaw&r=0)
